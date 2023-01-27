@@ -4,4 +4,4 @@ Quick demo of structure creation using Riverpod
 
 
 
-![Pasted image 20230127224828.png](./Pasted%20image%2020230127224828.png)
+![Recording%202023-01-27%20at%2022.52.52.gif](Recording%202023-01-27%20at%2022.52.52.gif)
